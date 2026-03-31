@@ -1,0 +1,538 @@
+{
+  "target": 17000,
+  "month": "March 2026",
+  "generated_at": "2026-03-31",
+  "total_deals": 490,
+  "reps": [
+    {
+      "id": "82974675",
+      "name": "Rep (82974675)",
+      "deal_count": 19,
+      "total_mrr": 82066.0,
+      "weighted_mrr": 34404.4,
+      "gap": 0,
+      "coverage_pct": 100,
+      "at_target": true
+    },
+    {
+      "id": "29724668",
+      "name": "Khalid Al-Madfai",
+      "deal_count": 25,
+      "total_mrr": 39142.0,
+      "weighted_mrr": 18050.5,
+      "gap": 0,
+      "coverage_pct": 100,
+      "at_target": true
+    },
+    {
+      "id": "82974547",
+      "name": "Rep (82974547)",
+      "deal_count": 33,
+      "total_mrr": 31477.0,
+      "weighted_mrr": 15707.3,
+      "gap": 1292.7,
+      "coverage_pct": 92.4,
+      "at_target": false
+    },
+    {
+      "id": "153365014",
+      "name": "Rep (15336501)",
+      "deal_count": 31,
+      "total_mrr": 32432.0,
+      "weighted_mrr": 14959.2,
+      "gap": 2040.8,
+      "coverage_pct": 88.0,
+      "at_target": false
+    },
+    {
+      "id": "83323838",
+      "name": "Rep (83323838)",
+      "deal_count": 9,
+      "total_mrr": 27197.58,
+      "weighted_mrr": 8966.16,
+      "gap": 8033.84,
+      "coverage_pct": 52.7,
+      "at_target": false
+    },
+    {
+      "id": "82533873",
+      "name": "Rep (82533873)",
+      "deal_count": 9,
+      "total_mrr": 15299.0,
+      "weighted_mrr": 8250.9,
+      "gap": 8749.1,
+      "coverage_pct": 48.5,
+      "at_target": false
+    },
+    {
+      "id": "83934991",
+      "name": "Rep (83934991)",
+      "deal_count": 32,
+      "total_mrr": 27563.0,
+      "weighted_mrr": 7707.8,
+      "gap": 9292.2,
+      "coverage_pct": 45.3,
+      "at_target": false
+    },
+    {
+      "id": "79985474",
+      "name": "Adam Aldous",
+      "deal_count": 15,
+      "total_mrr": 9740.0,
+      "weighted_mrr": 7013.9,
+      "gap": 9986.1,
+      "coverage_pct": 41.3,
+      "at_target": false
+    },
+    {
+      "id": "527032883",
+      "name": "Rep (52703288)",
+      "deal_count": 28,
+      "total_mrr": 10578.0,
+      "weighted_mrr": 6592.5,
+      "gap": 10407.5,
+      "coverage_pct": 38.8,
+      "at_target": false
+    },
+    {
+      "id": "78654388",
+      "name": "Vera Wu",
+      "deal_count": 18,
+      "total_mrr": 12932.0,
+      "weighted_mrr": 6432.7,
+      "gap": 10567.3,
+      "coverage_pct": 37.8,
+      "at_target": false
+    },
+    {
+      "id": "415503334",
+      "name": "Rep (41550333)",
+      "deal_count": 11,
+      "total_mrr": 5013.0,
+      "weighted_mrr": 4511.7,
+      "gap": 12488.3,
+      "coverage_pct": 26.5,
+      "at_target": false
+    },
+    {
+      "id": "2093812296",
+      "name": "Rep (20938122)",
+      "deal_count": 23,
+      "total_mrr": 8737.0,
+      "weighted_mrr": 3957.9,
+      "gap": 13042.1,
+      "coverage_pct": 23.3,
+      "at_target": false
+    },
+    {
+      "id": "80213604",
+      "name": "David Layman",
+      "deal_count": 10,
+      "total_mrr": 7529.0,
+      "weighted_mrr": 2428.1,
+      "gap": 14571.9,
+      "coverage_pct": 14.3,
+      "at_target": false
+    },
+    {
+      "id": "332627795",
+      "name": "Rep (33262779)",
+      "deal_count": 15,
+      "total_mrr": 3666.97,
+      "weighted_mrr": 2413.48,
+      "gap": 14586.52,
+      "coverage_pct": 14.2,
+      "at_target": false
+    },
+    {
+      "id": "81772561",
+      "name": "Rep (81772561)",
+      "deal_count": 22,
+      "total_mrr": 5787.0,
+      "weighted_mrr": 2364.8,
+      "gap": 14635.2,
+      "coverage_pct": 13.9,
+      "at_target": false
+    },
+    {
+      "id": "1795921251",
+      "name": "Rep (17959212)",
+      "deal_count": 6,
+      "total_mrr": 2945.31,
+      "weighted_mrr": 2351.38,
+      "gap": 14648.62,
+      "coverage_pct": 13.8,
+      "at_target": false
+    },
+    {
+      "id": "221573146",
+      "name": "Rep (22157314)",
+      "deal_count": 6,
+      "total_mrr": 7524.0,
+      "weighted_mrr": 2257.2,
+      "gap": 14742.8,
+      "coverage_pct": 13.3,
+      "at_target": false
+    },
+    {
+      "id": "76041957",
+      "name": "Rep (76041957)",
+      "deal_count": 17,
+      "total_mrr": 2649.0,
+      "weighted_mrr": 2146.7,
+      "gap": 14853.3,
+      "coverage_pct": 12.6,
+      "at_target": false
+    },
+    {
+      "id": "83323756",
+      "name": "Rep (83323756)",
+      "deal_count": 10,
+      "total_mrr": 4988.0,
+      "weighted_mrr": 1645.8,
+      "gap": 15354.2,
+      "coverage_pct": 9.7,
+      "at_target": false
+    },
+    {
+      "id": "176628055",
+      "name": "Rep (17662805)",
+      "deal_count": 4,
+      "total_mrr": 1827.0,
+      "weighted_mrr": 1644.3,
+      "gap": 15355.7,
+      "coverage_pct": 9.7,
+      "at_target": false
+    },
+    {
+      "id": "49868525",
+      "name": "Guillaume Roche",
+      "deal_count": 6,
+      "total_mrr": 1721.0,
+      "weighted_mrr": 1376.8,
+      "gap": 15623.2,
+      "coverage_pct": 8.1,
+      "at_target": false
+    },
+    {
+      "id": "1401084534",
+      "name": "Rep (14010845)",
+      "deal_count": 5,
+      "total_mrr": 1575.0,
+      "weighted_mrr": 1367.6,
+      "gap": 15632.4,
+      "coverage_pct": 8.0,
+      "at_target": false
+    },
+    {
+      "id": "79381763",
+      "name": "Rhea Zhang",
+      "deal_count": 8,
+      "total_mrr": 2273.0,
+      "weighted_mrr": 1319.4,
+      "gap": 15680.6,
+      "coverage_pct": 7.8,
+      "at_target": false
+    },
+    {
+      "id": "81054450",
+      "name": "Colm Fair",
+      "deal_count": 5,
+      "total_mrr": 1347.82,
+      "weighted_mrr": 1096.14,
+      "gap": 15903.86,
+      "coverage_pct": 6.4,
+      "at_target": false
+    },
+    {
+      "id": "86853757",
+      "name": "Rep (86853757)",
+      "deal_count": 5,
+      "total_mrr": 1301.0,
+      "weighted_mrr": 1040.8,
+      "gap": 15959.2,
+      "coverage_pct": 6.1,
+      "at_target": false
+    },
+    {
+      "id": "1582406209",
+      "name": "Rep (15824062)",
+      "deal_count": 10,
+      "total_mrr": 1298.2,
+      "weighted_mrr": 1038.56,
+      "gap": 15961.44,
+      "coverage_pct": 6.1,
+      "at_target": false
+    },
+    {
+      "id": "88621650",
+      "name": "Rep (88621650)",
+      "deal_count": 4,
+      "total_mrr": 847.0,
+      "weighted_mrr": 677.6,
+      "gap": 16322.4,
+      "coverage_pct": 4.0,
+      "at_target": false
+    },
+    {
+      "id": "81774005",
+      "name": "Rep (81774005)",
+      "deal_count": 8,
+      "total_mrr": 1435.8,
+      "weighted_mrr": 659.12,
+      "gap": 16340.88,
+      "coverage_pct": 3.9,
+      "at_target": false
+    },
+    {
+      "id": "57813751",
+      "name": "Marco Winkler",
+      "deal_count": 3,
+      "total_mrr": 699.0,
+      "weighted_mrr": 629.1,
+      "gap": 16370.9,
+      "coverage_pct": 3.7,
+      "at_target": false
+    },
+    {
+      "id": "79056152",
+      "name": "Jayden Li",
+      "deal_count": 9,
+      "total_mrr": 1217.0,
+      "weighted_mrr": 614.6,
+      "gap": 16385.4,
+      "coverage_pct": 3.6,
+      "at_target": false
+    },
+    {
+      "id": "78027850",
+      "name": "April Shepherd",
+      "deal_count": 1,
+      "total_mrr": 499.0,
+      "weighted_mrr": 399.2,
+      "gap": 16600.8,
+      "coverage_pct": 2.3,
+      "at_target": false
+    },
+    {
+      "id": "79871554",
+      "name": "Blair Shao",
+      "deal_count": 7,
+      "total_mrr": 768.0,
+      "weighted_mrr": 364.9,
+      "gap": 16635.1,
+      "coverage_pct": 2.1,
+      "at_target": false
+    },
+    {
+      "id": "81368850",
+      "name": "Stuart Bai",
+      "deal_count": 2,
+      "total_mrr": 438.0,
+      "weighted_mrr": 350.4,
+      "gap": 16649.6,
+      "coverage_pct": 2.1,
+      "at_target": false
+    },
+    {
+      "id": "86853550",
+      "name": "Rep (86853550)",
+      "deal_count": 4,
+      "total_mrr": 541.0,
+      "weighted_mrr": 340.9,
+      "gap": 16659.1,
+      "coverage_pct": 2.0,
+      "at_target": false
+    },
+    {
+      "id": "82079396",
+      "name": "Rep (82079396)",
+      "deal_count": 10,
+      "total_mrr": 369.0,
+      "weighted_mrr": 332.1,
+      "gap": 16667.9,
+      "coverage_pct": 2.0,
+      "at_target": false
+    },
+    {
+      "id": "85755652",
+      "name": "Rep (85755652)",
+      "deal_count": 3,
+      "total_mrr": 798.0,
+      "weighted_mrr": 239.4,
+      "gap": 16760.6,
+      "coverage_pct": 1.4,
+      "at_target": false
+    },
+    {
+      "id": "84738252",
+      "name": "Rep (84738252)",
+      "deal_count": 2,
+      "total_mrr": 499.0,
+      "weighted_mrr": 199.6,
+      "gap": 16800.4,
+      "coverage_pct": 1.2,
+      "at_target": false
+    },
+    {
+      "id": "75915226",
+      "name": "Yuki YAO",
+      "deal_count": 1,
+      "total_mrr": 199.0,
+      "weighted_mrr": 59.7,
+      "gap": 16940.3,
+      "coverage_pct": 0.4,
+      "at_target": false
+    },
+    {
+      "id": "85672831",
+      "name": "Rep (85672831)",
+      "deal_count": 2,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "95278389",
+      "name": "Rep (95278389)",
+      "deal_count": 1,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "544557489",
+      "name": "Rep (54455748)",
+      "deal_count": 2,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "169122453",
+      "name": "Rep (16912245)",
+      "deal_count": 4,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "85755970",
+      "name": "Rep (85755970)",
+      "deal_count": 2,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "84738251",
+      "name": "Rep (84738251)",
+      "deal_count": 3,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "88539642",
+      "name": "Rep (88539642)",
+      "deal_count": 1,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "85755250",
+      "name": "Rep (85755250)",
+      "deal_count": 2,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "85261084",
+      "name": "Rep (85261084)",
+      "deal_count": 6,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "764681629",
+      "name": "Rep (76468162)",
+      "deal_count": 3,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "526622347",
+      "name": "Rep (52662234)",
+      "deal_count": 5,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "81282117",
+      "name": "Andr\u00e9a Berglund",
+      "deal_count": 9,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "82172377",
+      "name": "Rep (82172377)",
+      "deal_count": 1,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "352046238",
+      "name": "Rep (35204623)",
+      "deal_count": 2,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    },
+    {
+      "id": "80559521",
+      "name": "Souleyman El Kadi",
+      "deal_count": 1,
+      "total_mrr": 0.0,
+      "weighted_mrr": 0.0,
+      "gap": 17000.0,
+      "coverage_pct": 0.0,
+      "at_target": false
+    }
+  ]
+}

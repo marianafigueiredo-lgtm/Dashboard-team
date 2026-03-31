@@ -1,0 +1,98 @@
+.header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.title {
+  font-size: 15px;
+  font-weight: 600;
+  color: #e2e8f0;
+}
+
+.sub {
+  font-size: 12px;
+  color: #475569;
+  margin-bottom: 16px;
+}
+
+.legend {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.legendItem {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  color: #64748b;
+}
+
+.dotGreen {
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  background: #22c55e;
+  display: inline-block;
+}
+
+.dotRed {
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  background: #6366f1;
+  display: inline-block;
+}
+
+.lineTarget {
+  width: 16px;
+  height: 2px;
+  background: #f97316;
+  display: inline-block;
+  border-top: 2px dashed #f97316;
+}
+
+.tooltip {
+  background: #1e2535;
+  border: 1px solid #2a3450;
+  border-radius: 8px;
+  padding: 10px 14px;
+  min-width: 180px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+}
+
+.tooltipName {
+  font-size: 12px;
+  font-weight: 600;
+  color: #f1f5f9;
+  margin-bottom: 8px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #2a3450;
+}
+
+.tooltipRow {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  font-size: 12px;
+  color: #94a3b8;
+  margin-top: 4px;
+}
+
+.tooltipRow strong {
+  color: #e2e8f0;
+}
+
+.tooltipGap {
+  margin-top: 8px;
+  padding-top: 6px;
+  border-top: 1px solid #2a3450;
+  font-size: 11px;
+  color: #ef4444;
+  font-weight: 500;
+}
